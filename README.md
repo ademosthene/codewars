@@ -1,7 +1,7 @@
 # Anne Demosthene's Codewars!
 Follow Anne's journey as a Warrior of Resilient Coders in the global Codewars community.
 
-![alt tag](cw.png)
+->![alt tag](cw.png)<-
 
 ## What are Codewars?
 
