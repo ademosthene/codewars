@@ -1,7 +1,11 @@
 # Anne Demosthene's Codewars!
 Follow Anne's journey as a Warrior of Resilient Coders in the global Codewars community.
 
-->![alt tag](cw.png)<-
+<div style="text-align:center" markdown="1">
+
+![alt tag](cw.png)
+
+</div>
 
 ## What are Codewars?
 
